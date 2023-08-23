@@ -14,6 +14,8 @@ Tenho como metas:
 1. Auxiliar minha equipe no que for preciso e caso re-querido
 2. moudar e utilizar minhas habilidades e conhecimento para conseguir progredir em meus objetivos e metas
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys)](https://github.com/Fabio42-sys/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio42-sys&layout=donut)](https://github.com/Fabio42-sys/github-readme-stats)
 
- <img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="150"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img  height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" /> <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
