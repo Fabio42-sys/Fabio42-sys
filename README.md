@@ -1,16 +1,12 @@
-++-### Hi there 👋
+### Hi there 👋
 
-<!--
-**Fabio42-sys/Fabio42-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on - Nada ainda 
+- 🌱 I’m currently learning - prograqmação de front-end web
+- 👯 I’m looking to collaborate on - em meus codigos, pois ainda estou aprendendo
+- 🤔 I’m looking for help with - na minha jornada pelo aprendizado front- end
+- 💬 Ask me about - Meu nome é Fabio e eu sou de São Paulo, faço curso de programação front-end no SENAI há 2 semanas 
+- 📫 How to reach me: POde se comunicar comigo por WhatsApp ou Instagram 
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Eu amo gatos e jogo na posição de ponteiro no meu time de volei 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-status.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=transparent">
