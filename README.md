@@ -9,4 +9,8 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu amo gatos e jogo na posição de ponteiro no meu time de volei 
 
-<img src="https://github-readme-status.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=transparent">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys)](https://github.com/Fabio42-sys/github-readme-stats)
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+          
