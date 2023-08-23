@@ -8,7 +8,6 @@
 -  How to reach me: POde se comunicar comigo por WhatsApp ou Instagram 
 -  Pronouns: ele/dele
 -  Fun fact: Eu amo gatos e jogo na posição de ponteiro no meu time de volei.
-< img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 Tenho como metas:
 
