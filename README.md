@@ -14,8 +14,7 @@ Tenho como metas:
 
 1. Auxiliar minha equipe no que for preciso e caso re-querido
 2. moudar e utilizar minhas habilidades e conhecimento para conseguir progredir em meus objetivos e metas
-3.conseguir me preparar para tudo que me faça alcançar minha metas
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys)](https://github.com/Fabio42-sys/github-readme-stats)
 
-   < img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+ <img height="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
