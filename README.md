@@ -21,4 +21,4 @@ Tenho como metas:
 
 <img height="300" src="https://avatars.githubusercontent.com/u/142447343?s=400&u=578808d1366def4aa91bd6fcda8c2227d4d1f7c3&v=4" />
 
-<script type="text/javascript">document.write(Date());</script>
+<script type="text/javascript">document.write(Date(25/08/2023));</script>
