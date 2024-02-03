@@ -18,5 +18,3 @@ Tenho como metas:
 
  <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="150"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img  height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" /> <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img height="300" src="https://avatars.githubusercontent.com/u/142447343?s=400&u=578808d1366def4aa91bd6fcda8c2227d4d1f7c3&v=4" />
