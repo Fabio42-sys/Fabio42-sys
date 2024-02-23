@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  I’m currently working on - Nada ainda 
+-  I’m currently working on - Por em quanto não recebi nenhuma proposta em minha busca
 -  I’m currently learning - prograqmação de front-end web
 -  I’m looking to collaborate on - em meus codigos, pois ainda estou aprendendo
 -  I’m looking for help with - na minha jornada pelo aprendizado front- end
@@ -16,5 +16,6 @@ Tenho como metas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio42-sys&layout=donut)](https://github.com/Fabio42-sys/github-readme-stats)
 
- <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="150"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img  height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" /> <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img height="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+ <img height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="100" color="#fff"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img  height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" /> <img height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img height="100" 
+color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
