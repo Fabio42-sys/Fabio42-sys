@@ -1,4 +1,4 @@
-![image](https://github.com/Fabio42-sys/Fabio42-sys/assets/142447343/67db6bc6-1beb-47ee-b50c-a2f8fe4457d6)### Hi there 👋
+### Hi there 👋
 
 -  I’m currently working on - Por em quanto não recebi nenhuma proposta em minha busca
 -  I’m currently learning - prograqmação de front-end web
@@ -16,15 +16,7 @@ Tenho como metas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
-<div class="icons">
+
  <img height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="100" color="#fff"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img  height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" /> <img height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img height="100" 
 color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</div>
-
-<style>
- .icons { 
-    display: flex;
-    justify-content: space-evenly;
- }
-</style>
