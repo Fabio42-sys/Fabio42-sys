@@ -14,9 +14,32 @@ Tenho como metas:
 1. Auxiliar minha equipe no que for preciso e caso re-querido
 2. moudar e utilizar minhas habilidades e conhecimento para conseguir progredir em meus objetivos e metas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio42-sys&layout=compact)
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabio42-sys&show_icons=true&theme=radical); ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio42-sys&layout=compact);
 
- <img height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img height="100" color="#fff"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  <img  height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" /> <img height="100" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> <img height="100" 
-color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br>
+
+**Tenho como habilidades:**
+
+<br>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,cypress,npm" />
+  </a>
+</p>
+
+<br>
+
+**Atualmente estou estudando:**
+
+<br>
+
+<p gap=3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,firebase" />
+  </a>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fabio42-sys&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats);
