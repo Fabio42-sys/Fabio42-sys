@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 -  I’m currently working on - Por em quanto não recebi nenhuma proposta em minha busca
--  I’m currently learning - prograqmação de front-end web
+-  I’m currently learning - programação de front-end web
 -  I’m looking to collaborate on - em meus codigos, pois ainda estou aprendendo
 -  I’m looking for help with - na minha jornada pelo aprendizado front- end
 -  Ask me about - Meu nome é Fabio e eu sou de São Paulo, faço curso de programação front-end no SENAI há 2 semanas 
